@@ -13,3 +13,4 @@ View the full game here: https://youtu.be/4U-EEuvP5Qo
 - **Power-Ups**: Implemented in the game to enhance gameplay and provide player benefits.
 - **Logging**: Includes logging functionality to track game events and debug issues.
 - **Collision Detection**: Utilizes the Separating Axis Theorem (SAT) for accurate collision detection between game objects.
+- **Audio**: All sourced from itch.io.
