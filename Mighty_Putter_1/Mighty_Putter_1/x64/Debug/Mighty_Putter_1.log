@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\assbo\OneDrive\Documents\University Year 2\Games Programming\Mighty_Putter_1\Mighty_Putter_1\Main.cpp(154,23): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+C:\Users\assbo\OneDrive\Documents\University Year 2\Games Programming\Mighty_Putter_1\Mighty_Putter_1\Main.cpp(403,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\assbo\OneDrive\Documents\University Year 2\Games Programming\Mighty_Putter_1\Mighty_Putter_1\Main.cpp(404,22): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\assbo\OneDrive\Documents\University Year 2\Games Programming\Mighty_Putter_1\Mighty_Putter_1\Main.cpp(431,27): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\assbo\OneDrive\Documents\University Year 2\Games Programming\Mighty_Putter_1\Mighty_Putter_1\Main.cpp(437,31): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Mighty_Putter_1.vcxproj -> C:\Users\assbo\OneDrive\Documents\University Year 2\Games Programming\Mighty_Putter_1\x64\Debug\Mighty_Putter_1.exe
